@@ -75,18 +75,10 @@ These models were created in TinkerCAD to explore arm placement, component fitti
 ![Vacuum system design](assets/iteration1_vacuum.png)
 
 ### Iteration 2 – Camera Slider inspired concept
-![Roller Design](assests/iteration2_slider.png)
+![Roller Design](assets/iteration2_slider.png)
 
 ### Iteration 3 – Basic Arm Mount
 ![Arm Mount](assets/Full_design.png)
-
----
-
-## 📐 Concept Sketch
-
-![Drone Pasting Banner Diagram](path/to/diagram.png)
-
----
 
 ## 🔜 Future Scope
 
