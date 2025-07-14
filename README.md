@@ -61,8 +61,8 @@ This is a **proof-of-concept (PoC)** for a drone system that can:
 ## 📸 Media
 
 - 📷 Photos of quadcopter build, Pixhawk integration, arm design
-- 🎥 [Concept explanation video](#) *(insert link or embed here)*
-- 🖼️ ![Concept Sketch](path/to/sketch.png)
+- 🎥 [Concept explanation video](https://drive.google.com/file/d/1pDI1t1Oe-g_tr-Z-ph_X35ysEsER921c/view?usp=sharing)
+- 🖼️ ![Concept](/assets/diagram.png)
 
 ---
 
