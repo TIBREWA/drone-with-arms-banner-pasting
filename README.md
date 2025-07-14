@@ -30,7 +30,7 @@ This is a **proof-of-concept (PoC)** for a drone system that can:
 
 | Component | Description |
 |----------|-------------|
-| **Flight Controller** | Pixhawk 4 |
+| **Flight Controller** | Pixhawk 2.3.1 |
 | **Frame** | Generic 450mm quadcopter |
 | **Motors** | 2200KV brushless motors |
 | **ESCs** | 30A ESCs |
