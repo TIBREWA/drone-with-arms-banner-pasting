@@ -62,7 +62,7 @@ This is a **proof-of-concept (PoC)** for a drone system that can:
 
 - 📷 Photos of quadcopter build, Pixhawk integration, arm design
 - 🎥 [Concept explanation video](https://drive.google.com/file/d/1pDI1t1Oe-g_tr-Z-ph_X35ysEsER921c/view?usp=sharing)
-- 🖼️ ![Concept](/assets/diagram.png)
+- 🖼️ ![Concept](/assets/Diagram.png)
 
 ---
 
@@ -70,11 +70,14 @@ This is a **proof-of-concept (PoC)** for a drone system that can:
 
 These models were created in TinkerCAD to explore arm placement, component fitting, and banner pressing mechanisms.
 
-### Iteration 1 – Basic Arm Mount
-![Arm Mount](designs/iteration1_mount.png)
+### Iteration 2 – Camera Slider inspired concept
+![Roller Design](assests/iteration2_roller.png)
 
-### Iteration 2 – Roller Assembly Concept
-![Roller Design](designs/iteration2_roller.png)
+### Iteration 3 – Vacuum Paste mechanism
+![Vacuum system design](assets/iteration3_vacuum.png)
+
+### Iteration 1 – Basic Arm Mount
+![Arm Mount](assets/FullDesign.png)
 
 ---
 
